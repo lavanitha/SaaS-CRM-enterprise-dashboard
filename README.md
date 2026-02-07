@@ -20,7 +20,7 @@ A modern, full-stack SaaS Customer Relationship Management (CRM) dashboard built
 
 ---
 
-## 📋 Overview
+##  Overview
 
 The **SaaS CRM Enterprise Dashboard** is a comprehensive customer relationship management system designed for modern businesses. It provides real-time analytics, sales pipeline management, customer insights, and revenue forecasting in an intuitive, responsive interface.
 
@@ -28,25 +28,25 @@ Whether you're managing a small sales team or scaling an enterprise operation, t
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📊 Analytics & Reporting
+###  Analytics & Reporting
 - **Real-time Dashboard** - KPI cards with total orders, customers, revenue, and returning customer metrics
 - **Revenue Analytics** - Advanced revenue tracking and forecasting capabilities
 - **Customer Analytics** - Detailed customer journey and segmentation analysis
 - **Sales Pipeline** - Visual deal progression and sales funnel management
 
-### 👥 Customer Management
+###  Customer Management
 - **Top Customers Table** - Identify and track your most valuable customers
 - **Customer Journey Tracking** - Monitor customer interactions and touchpoints
 - **Customer Segmentation** - Organize customers by behavior and value
 
-### 💼 Sales Tools
+###  Sales Tools
 - **Deal Progression** - Track deals through multiple stages
 - **Forecast Management** - Project future revenue based on current pipeline
 - **Order Management** - Complete order lifecycle management
 
-### 🎨 User Experience
+###  User Experience
 - **Modern UI/UX** - Clean, professional interface with intuitive navigation
 - **Responsive Design** - Optimized for desktop, tablet, and mobile devices
 - **Dark Mode Ready** - Tailwind CSS integration for theme customization
@@ -54,7 +54,7 @@ Whether you're managing a small sales team or scaling an enterprise operation, t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 | Technology | Version | Purpose |
@@ -81,7 +81,7 @@ Whether you're managing a small sales team or scaling an enterprise operation, t
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - **Node.js** v20.15.1 or higher
@@ -127,7 +127,7 @@ npm run dev
 
 ---
 
-## 📖 Usage
+##  Usage
 
 ### Available Scripts
 
@@ -225,7 +225,7 @@ SaaS-CRM-enterprise-dashboard/
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Orders Collection
 ```javascript
@@ -276,7 +276,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/crm_saas
 
 ---
 
-## 📊 Key Components
+##  Key Components
 
 ### Dashboard Page
 Displays real-time KPIs including:
@@ -305,7 +305,7 @@ Advanced revenue tracking with:
 
 ---
 
-## 🔌 REST API
+##  REST API
 
 ### Health Check
 ```bash
@@ -340,7 +340,7 @@ Response:
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 ### Frontend Deployment (Vercel, Netlify)
 ```bash
@@ -357,7 +357,7 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! To contribute:
 
@@ -370,7 +370,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -389,7 +389,7 @@ furnished to do so, subject to the following conditions:
 
 ---
 
-## 🙋 Support
+##  Support
 
 For support, email support@saascrm.com or open an issue on GitHub.
 
@@ -408,9 +408,9 @@ For support, email support@saascrm.com or open an issue on GitHub.
 
 ---
 
-## 👨‍💼 Author
+##  Author
 
-**SaaS CRM Development Team**
+**SaaS CRM Development Author**
 - GitHub: [@lavanitha](https://github.com/lavanitha)
 - Repository: [SaaS-CRM-enterprise-dashboard](https://github.com/lavanitha/SaaS-CRM-enterprise-dashboard)
 
@@ -420,6 +420,5 @@ For support, email support@saascrm.com or open an issue on GitHub.
 
 **[⬆ back to top](#saas-crm-enterprise-dashboard)**
 
-Made with ❤️ by the SaaS CRM Team
 
 </div>
